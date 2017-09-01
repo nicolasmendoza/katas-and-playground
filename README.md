@@ -1,5 +1,7 @@
 # katas-and-playground
 
-My code Practices - Katas and Playground.  Code without guarantee :D.
+.. image:: https://raw.githubusercontent.com/nicolasmendoza/katas-and-playground/master/null/cat-humor-funny-karate-cat-5.jpg
+   :alt: alternate text
+   :align: center
 
 
