@@ -1,5 +1,4 @@
-# katas-and-playground
-
-My code Practices - Katas and Playground.  Code without guarantee :D.
+# katas. Playground
 
 
+![Image of cats](https://raw.githubusercontent.com/nicolasmendoza/katas-and-playground/master/null/cat-humor-funny-karate-cat-5.jpg)
